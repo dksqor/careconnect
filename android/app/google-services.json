@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "121908802739",
+    "project_id": "mjc-capstone",
+    "storage_bucket": "mjc-capstone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121908802739:android:3bb8f5e317531eeec72cc6",
+        "android_client_info": {
+          "package_name": "com.example.capstone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121908802739-7a3ljgrivorrtv4uuha39gd3473daggr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB885A0IajW4NKQbcfeImean1T5zmlnEdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121908802739-7a3ljgrivorrtv4uuha39gd3473daggr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
